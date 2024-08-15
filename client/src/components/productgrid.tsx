@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function ProductGrid() {
   const categories = [
-    { name: 'Silver Set', image: '/Silver set.png', link: '#' },
+    { name: 'Silver Set', image: '/Silver Set.png', link: '#' },
     { name: 'Bracelets', image: '/Bracelets.png', link: '#' },
     { name: 'Earrings', image: '/Ear Rings.png', link: '#' },
     { name: 'Necklaces', image: '/Necklaces.png', link: '#' },
